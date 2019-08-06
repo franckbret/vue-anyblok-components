@@ -1,4 +1,5 @@
 # vue-anyblok-components
+
 A set of Vue.js components for Anyblok based projects.
 We choose to go with Bulma and Buefy for as base ui components.
 
@@ -21,3 +22,38 @@ On the components part, we use Axios to manage http call.
 # Maybe in the future
 * [TODO] - vac-records-calendar 
 * [TODO] - vac-records-kanban 
+
+# Contribute to vue-anyblok-components
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Run your unit tests
+```
+npm run test:unit
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
